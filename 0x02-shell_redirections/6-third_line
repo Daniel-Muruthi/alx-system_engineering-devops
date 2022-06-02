@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 'NR==3' |awk iacta
+cat -nR==3 |awk iacta
