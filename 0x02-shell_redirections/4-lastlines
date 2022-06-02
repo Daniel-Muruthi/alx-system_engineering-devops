@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -t | tail
+cat -n 10 | tail
