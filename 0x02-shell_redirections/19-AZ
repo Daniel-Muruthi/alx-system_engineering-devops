@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e "A" "c" | tr "Z" "e" 
+tr "Ac" "Ze" 
