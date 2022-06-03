@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -nR 3 |awk iacta
+awk 'NR==3{ print; exit }' iacta
